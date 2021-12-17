@@ -1,0 +1,19 @@
+html,
+body {
+  margin: 0;
+}
+
+.div {
+  background: linear-gradient(45deg, pink, hotpink);
+  height: 250px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  color: white;
+  font-size: 28px;
+  font-family: cursive;
+
+  margin-bottom: 1px;
+}

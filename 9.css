@@ -1,0 +1,6 @@
+.div {
+  background: tomato;
+
+  display: flex;
+  justify-content: space-between;
+}
