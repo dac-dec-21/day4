@@ -1,0 +1,30 @@
+html,
+body {
+  margin: 0;
+}
+
+.div {
+  background: rgba(0, 0, 0, 0.75);
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.beautify {
+  color: white;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: monospace;
+}
+
+.input {
+  margin-top: 8px;
+  width: 50%;
+  height: 36px;
+  border-radius: 8px;
+  padding: 4px;
+  font-size: large;
+}
